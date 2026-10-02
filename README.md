@@ -38,7 +38,9 @@
 **Frameworks e ferramentas**
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,react,nextjs,vite,supabase,postgres,wordpress,git,github,vercel,n8n&theme=dark&perline=6" alt="Node.js, React, Next.js, Vite, Supabase, PostgreSQL, WordPress, Git, GitHub, Vercel, n8n"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,react,nextjs,vite,supabase,postgres&theme=dark" alt="Node.js, React, Next.js, Vite, Supabase, PostgreSQL"/>
+  <br/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=wordpress,git,github,vercel,n8n&theme=dark" alt="WordPress, Git, GitHub, Vercel, n8n"/>
   <img src="https://cdn.simpleicons.org/mercadopago/00B1EA" width="48" height="48" alt="Mercado Pago" title="Mercado Pago"/>
 </p>
 
