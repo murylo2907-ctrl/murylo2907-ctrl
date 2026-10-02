@@ -38,10 +38,8 @@
 **Frameworks e ferramentas**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,vite,supabase,postgres,wordpress,git,github,vercel&theme=dark" alt="Node.js, React, Next.js, Vite, Supabase, PostgreSQL, WordPress, Git, GitHub, Vercel"/>
-  <br/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/Mercado%20Pago-00B1EA?style=for-the-badge&logo=mercadopago&logoColor=white" alt="Mercado Pago"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,react,nextjs,vite,supabase,postgres,wordpress,git,github,vercel,n8n&theme=dark" alt="Node.js, React, Next.js, Vite, Supabase, PostgreSQL, WordPress, Git, GitHub, Vercel, n8n"/>
+  <img src="https://cdn.simpleicons.org/mercadopago/00B1EA" width="48" height="48" alt="Mercado Pago" title="Mercado Pago"/>
 </p>
 
 **Qualidade (QA)**
